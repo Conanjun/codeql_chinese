@@ -7,6 +7,7 @@ The documents are machine translated and manually adjusted code blocks.
 
 Reading is not smooth
 
+I got plans to update, keep starring :)
 
 
 机器翻译，阅读不是很舒服，不喜勿star
