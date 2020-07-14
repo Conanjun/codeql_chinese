@@ -10,3 +10,5 @@ Reading is not smooth
 
 
 机器翻译，阅读不是很舒服，不喜勿star
+
+定期更新中，后期计划更新javascript , python等语言的文档，便于大家阅读
