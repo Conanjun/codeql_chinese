@@ -15,4 +15,5 @@ I got plans to update, keep starring :)
 定期更新中，后期计划更新javascript , python等语言的文档，便于大家阅读
 
 
-!()[WechatIMG977.jpeg]
+
+![](./WechatIMG977.jpeg)
