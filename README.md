@@ -30,7 +30,11 @@ codeql_中文文档.pdf -> 讲解codeQL java下的语法(codeQL对每个语言�
 
 
 ====================================================================================
+
+
 Q:codeQL可以扫描jar classes之类的文件吗？
+
+
 A:The general answer is: Yes, CodeQL can be used to analyze the Java source code for the JRE.
 
 Like for any CodeQL analysis you need to have a build system in place that actually builds the runtime .jar from the source code you want to analyze. Most of this content in this thread are attempts to help the original poster with that part.
