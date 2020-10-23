@@ -1,4 +1,4 @@
-# codeql_chinese
+# CodeQL_Chinese
 
 机器翻译(逐行校阅过，无阅读障碍)，部分阅读可能不是很舒服，不喜勿star
 
