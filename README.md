@@ -28,7 +28,7 @@ codeql_中文文档.pdf -> 讲解codeQL java下的语法(codeQL对每个语言�
 可以加我微信txsser 交流更多的codeQL技术
 
 
-#2020.10.20 更新一些编写codeQL规则的小技巧
+# 2020.10.20 更新一些编写codeQL规则的小技巧
 
 
 additionalTaintStep(过程间调用).pdf  
