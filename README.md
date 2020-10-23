@@ -29,8 +29,22 @@ codeql_中文文档.pdf -> 讲解codeQL java下的语法(codeQL对每个语言�
 可以加我微信txsser 交流更多的codeQL技术
 
 
-====================================================================================
+#2020.10.20 更新一些编写codeQL规则的小技巧
 
+
+additionalTaintStep(过程间调用).pdf  
+
+RemoteFlowSource类.pdf
+
+Smtm模块.pdf 
+
+CodeQL常见语法解释.pdf
+
+以Apache kylin为例编写命令执行检查规则.pdf
+
+
+====================================================================================
+#Q&A
 
 Q:codeQL可以扫描jar classes之类的文件吗？
 
