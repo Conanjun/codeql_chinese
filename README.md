@@ -16,7 +16,6 @@ I got plans to update, keep starring :)
 
 
 # 2020.08.06更新翻译
-
 当前版本都是Java的
 
 codeQL中文教程(重新翻译版).pdf  -> 讲解codeQL的语法。就是官网的tutorial
@@ -44,8 +43,7 @@ CodeQL常见语法解释.pdf
 
 
 ====================================================================================
-#Q&A
-
+# Q&A
 Q:codeQL可以扫描jar classes之类的文件吗？
 
 
